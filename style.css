@@ -7,10 +7,6 @@
     --font-poppins: 'Poppins', sans-serif;
 }
 
-html, css {
-    max-width: 100%;
-    overflow-x: hidden;
-}
 
 html {
     scroll-behavior: smooth;
@@ -370,7 +366,7 @@ to   { width: 100%; }
     font-size: 16px;
     position: absolute;
     top: 100%;
-    right: 0px;
+    right: 0;
     flex-direction: column;
     background-color: #0a0a0a;
     width: 50%;
@@ -378,11 +374,12 @@ to   { width: 100%; }
     opacity: 0;
     pointer-events: none;
     transition: opacity 0.3s ease, transform 0.5s ease;
-    transform: translateX(40px);
 }
 .navbar-nav.active {
     opacity: 1;
     pointer-events: auto;
+    position: absolute;
+    top: 100%;
     transform: translateX(0);
 }
 
@@ -398,6 +395,8 @@ to   { width: 100%; }
 
 .for-btn{
     padding: 8px 16px;
+    display: flex;
+    flex-wrap: wrap;
 }
 .btn-intro {
     font-size: 16px;
