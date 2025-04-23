@@ -394,6 +394,7 @@ to   { width: 100%; }
 }
 
 .for-btn{
+    margin-bottom: 20px;
     padding: 8px 16px;
     display: flex;
     flex-wrap: wrap;
