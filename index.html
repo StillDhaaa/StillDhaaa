@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zudha's Main Web</title>
+    <link rel="stylesheet" href="style.css">
+
+
+<!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900" rel="stylesheet">
+
+<!-- feather icons -->
+    <script src="https://unpkg.com/feather-icons"></script>
+</head>
+<body>
+
+<!-- preloader -->
+    <div id="preloader">
+        <div class="loader-glitch">[ LOADING... ]</div>
+        <div class="loader-matrix">
+        <div class="bar"></div>
+        </div>
+    </div>
+
+<!-- Navbar Start -->
+    <nav class="navbar">
+        <a href="#home" onclick="scrollToSection('home'); return false;"><h3><span>Zudha</span>'s Main Web</h3></a>
+        <div class="navbar-nav" id="navbar-nav">
+            <a href="#home" onclick="scrollToSection('home'); return false;">Home</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        <i data-feather="menu" class="navbar-icon" id="menu"></i>
+    </nav>
+<!-- Navbar End -->         
+
+
+<!-- Main Start -->
+    <section class="hero" id ='home'>
+        <div class="overlay-bg"></div>
+        <div class="gradient-bg"></div>
+        <main class="home" id="home">
+            <div class="intro-text">
+                <h1>Hello, I'm Zudha Pamungkas.</h1>
+                <p>Welcome to my main website.
+                    <br>I want to say thank you for visiting my website.
+                    <br>this is my first website, so i hope you like it.
+                </p>
+                <div class ='for-btn'>
+                <a href="#about" class="btn-intro">About me</a>
+                <a href="#contact" class="btn-intro">My contact</a>
+                </div>
+            </div>
+        </main>
+    </section>
+<!-- Main End -->
+
+
+<!-- About Start -->
+    <section class="about" id="about">
+        <h2>About Me</h2>
+            <div class="about-first">
+                <p>Hello, I'm Zudha Pamungkas, a 16-year-old student from Indonesia. I am currently studying at SMA Negeri 5 Yogyakarta. I have a passion for technology and programming, and I enjoy learning new things. In my free time, I like to play games and explore the world of coding. I hope to become a skilled programmer in the future and contribute to the tech industry.</p>
+
+                <img src="img/zudha-melet.jpg" alt="Zudha Pamungkas" class="about-img1">
+            </div>
+            <div class="about-second">
+                <img src="img/zudha-motor.jpg" alt="Zudha Pamungkas" class="about-img2">
+                <p>In addition to my interest in technology, I also enjoy riding my motorcycle. It gives me a sense of freedom and adventure. I love exploring new places and experiencing the thrill of the open road. Riding has taught me valuable lessons about responsibility and safety, and I always prioritize these aspects when I'm on the road.</p>
+            </div>
+            <div class="about-third">
+                <p>
+                I am also a graphic designer, video editor, and photographer. I enjoy creating visual content and expressing my creativity through design. Whether it's designing graphics, editing videos, or capturing moments through photography. Now I am still improving my skills in these areas trough practice and learning from my organization. That's why I also joined the organization in my school, which is called "Mannel" (Mache Channel), and also joined the "Media" at Rohis Darussalam.    
+                </p>
+                <img src="img/zudha-cam.jpg" alt="Zudha Pamungkas" class="about-img3">
+    </section>        
+<!-- About End -->
+
+
+<!-- Contact Start -->
+    <section class="contact" id="contact">
+        <h2>My Contact</h2>
+        <p>If you have any questions or would like to get in touch, feel free to reach out to me through these platforms:
+        </p>
+            <div class="contact-item">
+                <div class="contact-icon">
+                    <a href="https://www.instagram.com/still.dhaaa/" target="_blank"><i data-feather="instagram" class="logo"></i></a><span>@still.dhaaa</span>
+                </div>
+                <div class="contact-icon">
+                        <a href="mailto:zudhaaa1@gmail.com"><i data-feather="mail" class="logo"></i></a><span>zudhaaa1@gmail.com</span>
+                </div>
+                <div class="contact-icon">
+                    <a href="https://github.com/StillDhaaa" target="_blank"><i data-feather="github" class="logo"></i></a><span>StillDhaaa</span>
+                </div>
+                </div>
+            </div>
+<!-- Contact End -->
+
+    <footer class="footer">
+        <p> &copy; 2025 <a href="https://github.com/StillDhaaa">Zudha Pamungkas</a>. All rights reserved.</p>
+    </footer>
+    <!-- script js -->
+    <script src="script.js"></script>
+</body>
+</html>
