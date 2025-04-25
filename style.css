@@ -393,8 +393,8 @@ to   { width: 100%; }
     font-size: 16px;
 }
 
-.for-btn{
-    margin-bottom: 20px;
+.for-btn a{
+    margin-bottom: 30px;
     padding: 8px 16px;
     display: flex;
     flex-wrap: wrap;
