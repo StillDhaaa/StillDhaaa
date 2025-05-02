@@ -358,6 +358,14 @@ to   { width: 100%; }
 @media (max-width: 576px) {
 
 /* navbar start */
+.navbar {
+    padding: 10px 17px;
+}
+
+.navbar h3 {
+    margin:0px;
+}
+
 .navbar a {
     font-size: 16px;
 }
@@ -393,13 +401,21 @@ to   { width: 100%; }
     font-size: 16px;
 }
 
-.for-btn a{
-    margin-bottom: 30px;
-    padding: 8px 16px;
+.for-btn{
+    text-align: center;
     display: flex;
     flex-wrap: wrap;
 }
+
+.for-btn a{
+    margin-bottom: 30px;
+    width: auto;
+    padding: 8px 16px;
+    display:inline-block;
+    width: auto;
+}
 .btn-intro {
+    width: 35%;
     font-size: 16px;
     padding: 8px 16px;
     margin-left: 0px;
