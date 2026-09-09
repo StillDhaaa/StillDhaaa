@@ -1,54 +1,62 @@
-<h3 align="center">Hello World!!👋👋</h3>
+<h3 align="center">Hello World!! 👋👋</h3>
 
 ###
 
 ![zudhaGithub](/img/zudhaGithub.png)
 
-<h4 align="left">🕵️‍♂️About Me!</h4>
+<h4 align="left">🕵️‍♂️ About Me!</h4>
 
 ###
 
-<p align="left">Hi there! I'm Zudha Pamungkas.<br>I'm a student who loves coding and building random project.<br>Besides I like to coding, I also like to designing and photographing.<br>Currently, I'm focusing on increasing my skill in web development.💻</p>
+<p align="left">
+  Hi there! I'm Zudha Pamungkas.<br>
+  I'm a student who loves coding, designing, and photographing. 📸<br>
+  Currently, I'm focusing on <b>full-stack web development</b> and <b>integrating AI into web applications</b> to solve real-world productivity challenges.<br>
+  Lately, I've been actively developing an AI-powered Study Planner for the <i>Young Coders World Cup</i>! 🚀
+</p>
 
 ###
 
-<h4 align="left">🛠Languages & Tools</h4>
+<h4 align="left">🛠 Languages & Tools</h4>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <!-- Bahasa Pemrograman Inti -->
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" height="40" alt="core languages" />
+  <br><br>
+  <!-- Framework & Database -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,laravel" height="40" alt="frameworks and tools" />
 </div>
 
 ###
 
-<h4 align="left">💪Currently Learning on</h4>
+<h4 align="left">💪 Currently Exploring & Focusing On</h4>
+
+###
+
+<p align="left">
+  🧠 <b>AI Integration:</b> Prompt Engineering & Gemini API<br>
+  🎨 <b>UI/UX Design:</b> Glassmorphism interfaces<br>
+  ⚙️ <b>Architecture:</b> Modern Full-Stack Workflows
+</p>
+
+###
+
+<h4 align="left">🔗 Connect with Me</h4>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-</div>
-
-###
-
-<h4 align="left">🔗Connect with Me</h4>
-
-###
-
-<div align="left">
+    <a href="https://dhaaa.my.id">
+      <img src="https://img.shields.io/badge/Website-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="48" alt="Portfolio">
+    </a>
     <a href="https://instagram.com/still.dhaaa">
-    <img src="https://skillicons.dev/icons?i=instagram"></a>
-    <a href="mailto:zudha@dhaaa.my.id">
-    <img src="https://skillicons.dev/icons?i=gmail"></a>
+      <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram">
+    </a>
+    <a href="mailto:zudhaaa1@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    </a>
 </div>
 
 ###
@@ -62,7 +70,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/StillDhaaa/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/StillDhaaa/count.svg?" />
 </div>
-
-###
