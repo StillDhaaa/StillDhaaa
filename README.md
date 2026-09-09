@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" height="40" alt="core languages" />
   <br><br>
   <!-- Framework & Database -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,laravel" height="40" alt="frameworks and tools" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase" height="40" alt="frameworks and tools" />
 </div>
 
 ###
